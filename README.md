@@ -69,4 +69,4 @@ This repository contains my learning progress from a 10-day training session, do
 
 ---
 
-> 📝 **Note:** Replace the topic points above with your actual training content for accuracy.
+
